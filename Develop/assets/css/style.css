@@ -27,6 +27,8 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    
+
 }
 /*----header elements----*/
 
@@ -39,12 +41,13 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+
 header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 20px;  
 }
 
 header div ul {
@@ -55,7 +58,9 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+h2 {
+    flex-wrap: wrap;
+}
 /*----Banner----*/
 .hero {
     height: 800px;
@@ -69,7 +74,7 @@ header div ul li {
 /*---center page box styling---*/
 .content {
     width: 75%;
-    display: flex;
+    display: inline-block;
     margin-left: 20px;
 }
 
