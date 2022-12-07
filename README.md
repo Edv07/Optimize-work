@@ -16,9 +16,9 @@ In this project we are asked to refactor the code to meet acceptance criteria fo
 
 ## Links
 
-[Link to deployed website]()
+[Link to deployed website](https://edv07.github.io/Optimize-work/)
 
-[Link to code repository]()
+[Link to code repository](https://github.com/Edv07/Optimize-work)
 
 ## Tests
 
